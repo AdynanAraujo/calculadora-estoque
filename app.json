@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Calculadora Estoque",
+    "slug": "snack-0c008f23-bfc6-40b2-9dc2-c1028f109286",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.adynan.snack0c008f23bfc640b29dc2c1028f109286"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a236c223-c6b1-4034-b6bb-f7258088ec48"
+      }
+    },
+    "owner": "adynan"
+  }
+}
